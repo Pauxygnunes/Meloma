@@ -8,7 +8,7 @@ Meloma v1.3 is a patch for Max/MSP for didactic purposes in the application and 
 - Analysis of linear texture
 - Experimentation with creation of melodies.
 
-Version 1.3 is in the testing phase, and we offer it as an open-source program.y.net/parsemat-3/
+Version 1.3 is in the testing phase, and we offer it as an open-source program.
 
 # Basic Instructions
 Meloma has a simple interface, where the only method of input is through a MIDI keyboard. When playing sequences of pitches, the program provides the corresponding linear operator and displays the number of lines on the panel to the right. The pitches of the linear vector (linvector) are listed in the upper field.
