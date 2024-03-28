@@ -3,7 +3,7 @@
 ![Meloma](https://github.com/Pauxygnunes/Meloma/assets/30673056/d38c28ac-5dcb-43f8-a627-0c944a297d20)
 
 
-Meloma v1.3 is a patch for Max/MSP for didactic purposes in the application and experimentation with the concept of meloma. It is a program aimed at composers, researchers in music, mainly texture and form, and those interested in understanding Partitional Analysis and its derived theories. Its applications include:
+Meloma v1.3 is a patch for Max/MSP designed for didactic purposes, allowing users to apply and experiment with the concept of meloma. Targeted at composers, music researchers focusing on texture and form, as well as those interested in understanding Partitional Analysis and its derived theories, Meloma v1.3 offers a range of applications, including:
 
 - Analysis of linear texture
 - Experimentation with creation of melodies.
